@@ -1,1 +1,15 @@
-# MemoScript\n\nA natural-language-driven intelligent data collector for financial and mobile apps.\n\n## Features\n- OCR: Extract text from images\n- AI-guided scripting: Automate tasks via natural language\n- Full local control: No cloud dependencies\n\n## Getting Started\n1. Clone this repository\n2. Install dependencies\n3. Run `npm start` for local execution\n\nCheckout [documentation](https://example.com) for detailed usage
+# MemoScript
+
+A natural-language-driven intelligent data collector for financial and mobile apps.
+
+## Features
+- OCR: Extract text from images
+- AI-guided scripting: Automate tasks via natural language
+- Full local control: No cloud dependencies
+
+## Getting Started
+1. Clone this repository
+2. Install dependencies
+3. Run `npm start` for local execution
+
+Checkout [documentation](https://example.com) for detailed usage
