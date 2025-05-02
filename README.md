@@ -1,0 +1,1 @@
+# MemoScript\n\nA natural-language-driven intelligent data collector for financial and mobile apps. Featuring OCR, AI-guided scripting, and full local control.
